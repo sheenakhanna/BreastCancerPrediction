@@ -14,7 +14,7 @@ ii)Pair plot to see how diff columns are related to each other
 
 <img width="424" alt="image" src="https://user-images.githubusercontent.com/66938192/187818795-6efdcf4d-d549-4ec8-82fe-bd289c60dab4.png">
 
-iii)HeatMap 
+iii)HeatMap is a data visualization technique that shows magnitude of a phenomenon as color in two dimensions. The variation in color may be by hue or intensity, giving obvious visual cues to the reader about how the phenomenon is clustered or varies over space.
 
 <img width="461" alt="image" src="https://user-images.githubusercontent.com/66938192/187818879-3e330509-86d1-43dc-bbe9-58c573ab4ed0.png">
 
